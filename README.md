@@ -49,8 +49,6 @@ const harshita: Developer = {
 </td>
 <td width="45%" align="center">
 
-
-
 <br/><br/>
 
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />&nbsp;
@@ -120,24 +118,13 @@ const harshita: Developer = {
 ## 📊 `github.stats` — *the receipts* 🧾
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshitanagpal05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitanagpal05&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12&langs_count=8" height="175"/>
-
+  <img src="https://streak-stats.demolab.com?user=harshitanagpal05&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakNum=a78bfa&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=888888&dates=888888&border_radius=12&card_width=800" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitanagpal05&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff9944&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888&border_radius=12" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitanagpal05&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302b63&hide_border=true&radius=12" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitanagpal05&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=false&hide_border=true&radius=12&title_color=a78bfa" width="95%"/>
 </div>
 
 ---
