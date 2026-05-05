@@ -118,6 +118,13 @@ const harshita: Developer = {
 ## 📊 `github.stats` — *the receipts* 🧾
 
 <div align="center">
+
+
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=harshitanagpal05&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakNum=a78bfa&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=888888&dates=888888&border_radius=12&card_width=800" />
 </div>
 
