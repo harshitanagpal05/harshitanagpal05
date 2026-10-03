@@ -117,7 +117,7 @@ const harshita: Developer = {
 
 <div align="center">
 
-| 🎵 Coding Playlist | 📚 Reading | 🌱 Learning | 🎯 Goal 2025 |
+| 🎵 Coding Playlist | 📚 Reading | 🌱 Learning | 🎯 Goal 2026 |
 |:---:|:---:|:---:|:---:|
 | Lo-fi beats 🎧 | Clean Code 📖 | System Design | Land Dream Role 💼 |
 
